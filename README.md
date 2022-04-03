@@ -7,7 +7,7 @@ See [Siegle, Jia et al. (2021) *Nature*](https://www.nature.com/articles/s41586-
 
 ## Design files
 
-![Headframe image](Design%20iles/0160-100-10_A.png)
+![Headframe image](Design%20files/0160-100-10_A.png | width=100)
 
 **Headframe** (Part #160-100-10_A) - titanium plate used for head fixation.
 
