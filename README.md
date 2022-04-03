@@ -7,21 +7,21 @@ See [Siegle, Jia et al. (2021) *Nature*](https://www.nature.com/articles/s41586-
 
 ## Design files
 
-![Headframe image](Design files/0160-100-10_A.png)
+![Headframe image](Design%20iles/0160-100-10_A.png)
 
-*Headframe* (Part #160-100-10_A) - titanium piece used for head fixation.
+**Headframe** (Part #160-100-10_A) - titanium plate used for head fixation.
 
-![Headframe well](Design files/0160-200-45.png)
+![Headframe well](Design%20files/0160-200-45.png)
 
-*Headframe well* (Part #160-200-45) - 3D printed well attached to the headframe. Similar to the well used in 2P experiments, but includes a mating surface for the insertion window and a slot for a ground pin.
+**Headframe well** (Part #160-200-45) - 3D printed well attached to the headframe. Similar to the well used in 2P experiments, but includes a mating surface for the insertion window and a slot for a ground pin.
 
-![Headframe cap](Design files/0160-200-37.png)
+![Headframe cap](Design%20files/0160-200-37.png)
 
-*Headframe cap* (Part #0160-200-37) - 3D printed cap that screws into the headframe well to protect the craniotomy between experiments.
+**Headframe cap** (Part #0160-200-37) - 3D printed cap that screws into the headframe well to protect the craniotomy between experiments.
 
-![Protective cone](Design files/0160-200-50.png)
+![Protective cone](Design%20files/0160-200-50.png)
 
-*Protective cone* (Part #0160-200-50) - 3D printed cone that protects the probes and manipulators from the mouse's tail during the experiment. Also includes a channel for a mating gold pin for grounding.
+**Protective cone** (Part #0160-200-50) - 3D printed cone that protects the probes and manipulators from the mouse's tail during the experiment. Also includes a channel for a mating gold pin for grounding.
 
 
 ## Notebooks
