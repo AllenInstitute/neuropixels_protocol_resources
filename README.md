@@ -28,7 +28,7 @@ See the associated PDF files for manufacturing instructions.
 
 ## Notebooks
 
-<img src="Notebooks/calculate_insertion_coordinates.png" width=350>
+<img src="Notebooks/calculate_insertion_coordinates.png" width=550>
 
 [**Calculate Insertion Coordinates.ipynb**](Notebooks/Calculate%20Insertion%20Coordinates.ipynb) - Following a calibration procedure, outputs the coordinates required to hit targets in a global coordinate space.
 
