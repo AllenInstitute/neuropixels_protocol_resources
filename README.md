@@ -28,13 +28,13 @@ See the associated PDF files for manufacturing instructions.
 
 ## Notebooks
 
-<img src="Notebooks/calculate_insertion_coordinates.png" width=250>
+<img src="Notebooks/calculate_insertion_coordinates.png" width=350>
 
-[*Calculate Insertion Coordinates.ipynb*](Notebooks/Calculate%20Insertion%20Coordinates.ipynb) - Following a calibration procedure, outputs the coordinates required to hit targets in a global coordinate space.
+[**Calculate Insertion Coordinates.ipynb**](Notebooks/Calculate%20Insertion%20Coordinates.ipynb) - Following a calibration procedure, outputs the coordinates required to hit targets in a global coordinate space.
 
 <img src="Notebooks/create_insertion_window.png" width=150>
 
-[*Create Insertion Window.ipynb*](Notebooks/Create%20Insertion%20Window.ipynb) - Automatically generate the design for a plastic insertion window customized for individual mice.
+[**Create Insertion Window.ipynb**](Notebooks/Create%20Insertion%20Window.ipynb) - Automatically generate the design for a plastic insertion window customized for individual mice.
 
 ### Usage
 
