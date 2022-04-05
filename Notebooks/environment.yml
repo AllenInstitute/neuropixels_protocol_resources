@@ -1,0 +1,12 @@
+name: probe_alignment
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - matplotlib
+  - ezdxf
+  - svgpathtools
+  - notebook

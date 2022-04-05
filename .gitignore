@@ -1,1 +1,4 @@
 .DS_Store
+Notebooks/*.dxf
+Notebooks/__pycache__
+Notebooks/.ipynb_checkpoints
