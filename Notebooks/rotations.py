@@ -211,5 +211,3 @@ def fit_params(global_coords, local_coords):
     return origin, R
 
 
-
-
