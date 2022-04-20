@@ -40,7 +40,7 @@ See the associated PDF files for manufacturing instructions.
 
 We recommend using [`conda`](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) to manage the Python environment needed to run these notebooks.
 
-Once `conda` has been installed, you can run:
+Once [`conda`](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) has been installed, you can run:
 
 ```bash
 $ cd Notebooks
