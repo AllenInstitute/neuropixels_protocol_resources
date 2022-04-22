@@ -56,7 +56,7 @@ The relevant documentation for each cell is contained inside the notebook files.
 
 ## Contact info
 
-For more information about this repository, contact [joshs@alleninstitute.org](mailto:joshs@alleninstitute.org)
+For more information about this repository, contact [joshs@alleninstitute.org](mailto:joshs@alleninstitute.org) or [greggh@mit.edu](mailto:greggh@mit.edu)
 
 
 ## Terms of use
